@@ -1,0 +1,1 @@
+C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\IsolatedStorageFileManager.csproj;neutral

@@ -1,0 +1,25 @@
+﻿<xapCache source="C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\Bin\Debug\IsolatedStorageFileManager_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="06.04.2017 09:28:17">
+  <file source="C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\Bin\Debug\resources.pri" archivePath="resources.pri" lastWriteTime="05.04.2017 13:47:48" />
+  <file source="C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\IsolatedStorageFileManager.dll" archivePath="IsolatedStorageFileManager.dll" lastWriteTime="06.04.2017 09:28:16" />
+  <file source="C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\NLog.config" archivePath="NLog.config" lastWriteTime="05.04.2017 13:42:28" />
+  <file source="C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="05.04.2017 13:27:26" />
+  <file source="C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\Assets\BadgeLogo.png" archivePath="Assets\BadgeLogo.png" lastWriteTime="05.04.2017 13:27:26" />
+  <file source="C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\Assets\Logo.png" archivePath="Assets\Logo.png" lastWriteTime="05.04.2017 13:27:26" />
+  <file source="C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\Assets\SplashScreen.png" archivePath="Assets\SplashScreen.png" lastWriteTime="05.04.2017 13:27:26" />
+  <file source="C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\Assets\SquareTile150x150.png" archivePath="Assets\SquareTile150x150.png" lastWriteTime="05.04.2017 13:27:26" />
+  <file source="C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\Assets\SquareTile71x71.png" archivePath="Assets\SquareTile71x71.png" lastWriteTime="05.04.2017 13:27:26" />
+  <file source="C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\Assets\StoreLogo.png" archivePath="Assets\StoreLogo.png" lastWriteTime="05.04.2017 13:27:26" />
+  <file source="C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\Assets\WideLogo.png" archivePath="Assets\WideLogo.png" lastWriteTime="05.04.2017 13:27:26" />
+  <file source="C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="05.04.2017 13:27:26" />
+  <file source="C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="05.04.2017 13:27:26" />
+  <file source="C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="05.04.2017 13:27:26" />
+  <file source="C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="05.04.2017 13:27:26" />
+  <file source="C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="05.04.2017 13:46:39" />
+  <file source="C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="05.04.2017 13:27:26" />
+  <file source="C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="05.04.2017 13:27:26" />
+  <file source="C:\WinPhone\20170405\IsolatedStorageFileManager\packages\NLog.4.4.5\lib\wp8\NLog.dll" archivePath="NLog.dll" lastWriteTime="28.03.2017 20:20:56" />
+  <file source="C:\WinPhone\20170405\IsolatedStorageFileManager\packages\NLog.4.4.5\lib\wp8\NLog.xml" archivePath="NLog.xml" lastWriteTime="28.03.2017 20:20:56" />
+  <file source="C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="05.04.2017 13:27:34" />
+  <file source="C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\MDILProjectFiles.xml" archivePath="MDILProjectFiles.xml" lastWriteTime="06.04.2017 09:28:17" />
+  <file source="C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\Bin\Debug\AppxManifest.xml" archivePath="AppxManifest.xml" lastWriteTime="05.04.2017 13:47:48" />
+</xapCache>

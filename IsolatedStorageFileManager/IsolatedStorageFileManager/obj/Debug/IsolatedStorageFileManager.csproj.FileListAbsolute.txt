@@ -1,0 +1,78 @@
+c:\users\alfa-dozent\documents\visual studio 2015\Projects\IsolatedStorageFileManager\IsolatedStorageFileManager\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\alfa-dozent\documents\visual studio 2015\Projects\IsolatedStorageFileManager\IsolatedStorageFileManager\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\alfa-dozent\documents\visual studio 2015\Projects\IsolatedStorageFileManager\IsolatedStorageFileManager\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\alfa-dozent\documents\visual studio 2015\Projects\IsolatedStorageFileManager\IsolatedStorageFileManager\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\alfa-dozent\documents\visual studio 2015\Projects\IsolatedStorageFileManager\IsolatedStorageFileManager\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\alfa-dozent\documents\visual studio 2015\Projects\IsolatedStorageFileManager\IsolatedStorageFileManager\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\alfa-dozent\documents\visual studio 2015\Projects\IsolatedStorageFileManager\IsolatedStorageFileManager\Bin\Debug\IsolatedStorageFileManager.dll
+c:\users\alfa-dozent\documents\visual studio 2015\Projects\IsolatedStorageFileManager\IsolatedStorageFileManager\Bin\Debug\IsolatedStorageFileManager.pdb
+c:\users\alfa-dozent\documents\visual studio 2015\Projects\IsolatedStorageFileManager\IsolatedStorageFileManager\Bin\Debug\resources.pri
+c:\users\alfa-dozent\documents\visual studio 2015\Projects\IsolatedStorageFileManager\IsolatedStorageFileManager\Bin\Debug\AppxManifest.xml
+c:\users\alfa-dozent\documents\visual studio 2015\Projects\IsolatedStorageFileManager\IsolatedStorageFileManager\Bin\Debug\IsolatedStorageFileManager.build.appxrecipe
+c:\users\alfa-dozent\documents\visual studio 2015\Projects\IsolatedStorageFileManager\IsolatedStorageFileManager\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\alfa-dozent\documents\visual studio 2015\Projects\IsolatedStorageFileManager\IsolatedStorageFileManager\Bin\Debug\AppManifest.xaml
+c:\users\alfa-dozent\documents\visual studio 2015\Projects\IsolatedStorageFileManager\IsolatedStorageFileManager\Bin\Debug\IsolatedStorageFileManager_Debug_AnyCPU.xap
+c:\users\alfa-dozent\documents\visual studio 2015\Projects\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\App.g.cs
+c:\users\alfa-dozent\documents\visual studio 2015\Projects\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\MainPage.g.cs
+c:\users\alfa-dozent\documents\visual studio 2015\Projects\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\IsolatedStorageFileManager.g.resources
+c:\users\alfa-dozent\documents\visual studio 2015\Projects\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\IsolatedStorageFileManager.Resources.AppResources.resources
+c:\users\alfa-dozent\documents\visual studio 2015\Projects\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\IsolatedStorageFileManager.csproj.GenerateResource.Cache
+c:\users\alfa-dozent\documents\visual studio 2015\Projects\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\IsolatedStorageFileManager.dll
+c:\users\alfa-dozent\documents\visual studio 2015\Projects\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\IsolatedStorageFileManager.pdb
+c:\users\alfa-dozent\documents\visual studio 2015\Projects\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\priconfig.xml
+c:\users\alfa-dozent\documents\visual studio 2015\Projects\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\priconfig.xml.intermediate
+c:\users\alfa-dozent\documents\visual studio 2015\Projects\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\layout.resfiles
+c:\users\alfa-dozent\documents\visual studio 2015\Projects\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\layout.resfiles.intermediate
+c:\users\alfa-dozent\documents\visual studio 2015\Projects\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\resources.resfiles
+c:\users\alfa-dozent\documents\visual studio 2015\Projects\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\resources.resfiles.intermediate
+c:\users\alfa-dozent\documents\visual studio 2015\Projects\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\pri.resfiles
+c:\users\alfa-dozent\documents\visual studio 2015\Projects\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\pri.resfiles.intermediate
+c:\users\alfa-dozent\documents\visual studio 2015\Projects\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\qualifiers.txt
+c:\users\alfa-dozent\documents\visual studio 2015\Projects\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\qualifiers.txt.intermediate
+c:\users\alfa-dozent\documents\visual studio 2015\Projects\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\alfa-dozent\documents\visual studio 2015\Projects\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\ProjectArchitectures.txt
+c:\users\alfa-dozent\documents\visual studio 2015\Projects\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\MDILProjectFiles.xml
+c:\users\alfa-dozent\documents\visual studio 2015\Projects\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\XapCacheFile.xml
+c:\users\alfa-dozent\documents\visual studio 2015\Projects\IsolatedStorageFileManager\IsolatedStorageFileManager\Bin\Debug\NLog.config
+c:\users\alfa-dozent\documents\visual studio 2015\Projects\IsolatedStorageFileManager\IsolatedStorageFileManager\Bin\Debug\NLog.dll
+c:\users\alfa-dozent\documents\visual studio 2015\Projects\IsolatedStorageFileManager\IsolatedStorageFileManager\Bin\Debug\NLog.xml
+c:\users\alfa-dozent\documents\visual studio 2015\Projects\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\IsolatedStorageFileManager.csprojResolveAssemblyReference.cache
+C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\Bin\Debug\Assets\ApplicationIcon.png
+C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\Bin\Debug\NLog.config
+C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\Bin\Debug\IsolatedStorageFileManager.dll
+C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\Bin\Debug\IsolatedStorageFileManager.pdb
+C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\Bin\Debug\resources.pri
+C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\Bin\Debug\AppxManifest.xml
+C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\Bin\Debug\IsolatedStorageFileManager.build.appxrecipe
+C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\Bin\Debug\Properties\WMAppManifest.xml
+C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\Bin\Debug\AppManifest.xaml
+C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\Bin\Debug\IsolatedStorageFileManager_Debug_AnyCPU.xap
+C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\Bin\Debug\NLog.dll
+C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\Bin\Debug\NLog.xml
+C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\IsolatedStorageFileManager.csprojResolveAssemblyReference.cache
+C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\App.g.cs
+C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\MainPage.g.cs
+C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\IsolatedStorageFileManager.g.resources
+C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\IsolatedStorageFileManager.Resources.AppResources.resources
+C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\IsolatedStorageFileManager.csproj.GenerateResource.Cache
+C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\IsolatedStorageFileManager.dll
+C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\IsolatedStorageFileManager.pdb
+C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\priconfig.xml
+C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\priconfig.xml.intermediate
+C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\layout.resfiles
+C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\layout.resfiles.intermediate
+C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\resources.resfiles
+C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\resources.resfiles.intermediate
+C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\pri.resfiles
+C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\pri.resfiles.intermediate
+C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\qualifiers.txt
+C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\qualifiers.txt.intermediate
+C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\ProjectArchitectures.txt
+C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\MDILProjectFiles.xml
+C:\WinPhone\20170405\IsolatedStorageFileManager\IsolatedStorageFileManager\obj\Debug\XapCacheFile.xml
